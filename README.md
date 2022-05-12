@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Daniela 🍄
+- 👀 I’m interested in JavaScript. And I think I want to explore back-end technologies as well 👀 
+- 🌱 I’m currently learning React and I would love to keep learning different frameworks. 
+- 💞️ I’m looking to collaborate on creative and passionate projects.
+- 🌚 Pronouns: She/Her 
+- 🎸 Fun fact: I love Roller Derby and I´m afraid of butterflies 😅
