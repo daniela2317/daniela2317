@@ -6,7 +6,7 @@
 - 🎸 Fun fact: I love Roller Derby and I´m afraid of butterflies 😅
 
 
-## Tech Stack :art:
+## Tech Stack 💻
 <div>
    <img alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="60" height="60">
    <img alt="react" src="https://user-images.githubusercontent.com/97549436/167679224-3ea56ec4-ec39-443c-b868-60fc626e2779.png" width="65" height="60">
